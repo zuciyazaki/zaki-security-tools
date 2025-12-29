@@ -6,7 +6,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Maintained](https://img.shields.io/badge/Maintained-Yes-green.svg)](https://github.com/zuciyazaki/zaki-security-tools)
 
-> *"I never go back on my word. That's my ninja way!"*  
+> *"I never go back on my word. That's the Zaki way!"*  
 > — Zuciya Zaki (Dominic Metz)
 
 ---
